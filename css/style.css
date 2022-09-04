@@ -117,7 +117,11 @@ border-color: #1f2937;
 }
 
 .footer-section {
-    background-color: green;
+    background-color: #1f2937;
     margin-top: auto;
     height: fit-content;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #f9faf8;
 }
